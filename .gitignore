@@ -41,3 +41,6 @@ translations
 
 # Sensitive account information
 accounts.json
+
+# Logs
+logs
