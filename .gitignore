@@ -37,3 +37,6 @@ java
 
 # Translations
 translations
+
+# Sensitive account information
+accounts.json
