@@ -1,0 +1,3 @@
+[submodule "instances/prism-launcher-minecraft-instance"]
+	path = instances/prism-launcher-minecraft-instance
+	url = git@github.com:esotericenderman/prism-launcher-minecraft-instance.git
