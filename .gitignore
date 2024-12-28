@@ -28,3 +28,6 @@ dist
 
 # Cache
 cache
+
+# Data (?) assets
+assets
