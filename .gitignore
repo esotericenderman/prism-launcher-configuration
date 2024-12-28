@@ -29,6 +29,7 @@ dist
 # Cache
 cache
 metacache
+meta
 
 # Data (?) assets
 assets
