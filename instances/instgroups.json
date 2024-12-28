@@ -4,7 +4,7 @@
         "Vanilla": {
             "hidden": false,
             "instances": [
-                "Latest"
+                "prism-launcher-minecraft-instance"
             ]
         }
     }
