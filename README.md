@@ -2,7 +2,7 @@
 
 <sup>Generated from [Template Asset Repository](https://github.com/EsotericTemplates/template-asset-repository) [1.1.1](https://github.com/EsotericTemplates/template-asset-repository/tree/1.1.1)</sup>
 
-[![Project Status: Unfinished](./.assets/images/badges/status/unfinished.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/esotericenderman/prism-launcher-configuration?style=for-the-badge&logo=github&label=Repository%20size)](./)
+[![Project Status: Maintained](./.assets/images/badges/status/maintained.svg)](./) [![Repository Size](https://img.shields.io/github/repo-size/esotericenderman/prism-launcher-configuration?style=for-the-badge&logo=github&label=Repository%20size)](./)
 
 My configuration for Prism Launcher.
 
